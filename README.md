@@ -1,4 +1,4 @@
-# Drawin
+# Drawin 0.0.1
 Drawin es un programa de dibujo automático gratuito y de código abierto creado por Ismael Merlo.
 
 ![drawin_splash](https://github.com/user-attachments/assets/b3bb1c7a-dde3-4b4b-80df-530c85b066de)
